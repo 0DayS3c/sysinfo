@@ -36,7 +36,7 @@ echo
 
 #last loggin times
 echo -e '\033[1;31m' "> LAST LOGIN TIMES :"
-echo -e '\033[0;37m' "$(last)"
+echo -e '\033[0;37m' "$(lastlog)"
 echo 
 
 #curent directory
